@@ -1,0 +1,14 @@
+.\objects\heap_2.o: ..\FREERTOS\Source\portable\MemMang\heap_2.c
+.\objects\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\FreeRTOS.h
+.\objects\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\heap_2.o: ..\USER\FreeRTOSConfig.h
+.\objects\heap_2.o: ..\CORE\system_stm32f4xx.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\projdefs.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\portable.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\deprecated_definitions.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\portmacro.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\mpu_wrappers.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\task.h
+.\objects\heap_2.o: ..\FREERTOS\Source\include\list.h
